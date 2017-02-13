@@ -1,0 +1,28 @@
+surv_id,surv_date,surv_gender,surv_dob,surv_occupation,surv_ethnicity,surv_marital,location_id
+111,2011-01-12,M,1991-06-05,Farmer,Asian,Single,277
+112,2011-01-12,M,1986-08-05,"Office Employee",Hispanic,Married,245
+113,2011-01-12,F,1999-12-05,"Office Employee","Native American",Single,245
+114,2011-01-12,F,1989-11-30,Farmer,Asian,Divorced,245
+115,2011-01-12,M,1989-01-16,Farmer,Afican,Single,277
+116,2011-01-12,F,1991-02-16,"Office Employee","Native American",Married,213
+117,2011-01-12,M,1992-09-18,"Industrial Labor Worker",Asian,Single,213
+118,2011-01-12,M,1980-03-18,"Industrial Labor Worker",Asian,Single,213
+119,2011-01-12,F,1991-04-18,"Industrial Labor Worker",Hispanic,Single,213
+121,2012-01-12,F,1991-04-18,Farmer,Hispanic,Single,277
+122,2012-01-12,M,1989-05-15,Farmer,Asian,Married,277
+123,2012-01-12,M,1989-04-18,"Industrial Labor Worker",Hispanic,Single,245
+124,2012-01-12,F,1989-12-05,"Industrial Labor Worker","Native American",Single,245
+125,2012-01-12,F,1991-04-25,"Office Employee",Hispanic,Single,245
+126,2012-01-12,M,1992-07-18,"Industrial Labor Worker",Asian,Married,213
+127,2012-01-12,F,1991-06-29,"Office Employee",Hispanic,Divorced,213
+128,2012-01-12,F,1984-02-18,"Office Employee","Native American",Single,213
+129,2012-01-12,F,1989-12-31,"Office Employee",Asian,Single,213
+131,2013-01-12,M,1994-04-18,Farmer,Asian,Single,277
+132,2013-01-12,M,1989-06-15,Farmer,Asian,Divorced,277
+133,2013-01-12,M,1990-04-08,"Industrial Labor Worker","Native American",Single,245
+134,2013-01-12,F,1989-12-05,"Industrial Labor Worker","Native American",Single,245
+135,2013-01-12,F,1991-03-25,Farmer,Hispanic,Married,245
+136,2013-01-12,M,1992-11-18,"Industrial Labor Worker",Asian,Single,213
+137,2013-01-12,F,1989-06-29,"Office Employee",Hispanic,Divorced,213
+138,2013-01-12,F,1984-02-18,"Office Employee","Native American",Single,213
+139,2013-01-12,F,1992-02-03,"Office Employee",Asian,Divorced,213

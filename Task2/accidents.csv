@@ -1,0 +1,23 @@
+accident_id,accident_type,accident_date,location_id
+911,"Car Accident",2011-05-06,277
+912,"Car Accident",2012-02-06,277
+913,"Labor Accident",2013-02-06,277
+914,"Food Poisoning",2012-02-06,277
+915,"Food Poisoning",2012-02-06,213
+916,"Food Poisoning",2011-03-16,213
+917,"Labor Accident",2012-12-06,213
+918,"Labor Accident",2011-03-12,213
+919,"Car Accident",2012-03-21,213
+920,"Car Accident",2012-11-17,213
+921,"Car Accident",2013-03-16,213
+922,"Labor Accident",2012-08-06,213
+923,"Labor Accident",2011-04-12,213
+924,"Car Accident",2012-12-21,213
+925,"Car Accident",2012-01-17,213
+926,"Labor Accident",2011-11-06,245
+927,"Labor Accident",2012-08-06,245
+928,"Labor Accident",2012-08-06,245
+929,"Car Accident",2010-04-06,245
+930,"Food Poisoning",2012-04-06,245
+931,"Car Accident",2010-04-06,245
+932,"Car Accident",2012-08-06,245
